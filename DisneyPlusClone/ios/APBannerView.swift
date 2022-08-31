@@ -28,8 +28,7 @@ class APBannerView: UIView {
     //adView = APAdView(frame: CGRect(x: 0, y: 0, width: 300, height: 250))
     adView = APAdView(frame: CGRect(x: 0, y: 0, width: 320, height: 480))
     self.addSubview(adView)
-    //adView.slotId = "619b175065a17f6519f34fe7"
-    adView.slotId = "619b173465a17f6467d5ddfe"
+    adView.slotId = "57342fdd7174ea39844cac15"
     adView.load()
   }
   
